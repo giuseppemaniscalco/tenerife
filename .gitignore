@@ -1,0 +1,4 @@
+.env
+k8scomm.ca.crt
+vendor/
+bin/
